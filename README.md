@@ -9,13 +9,21 @@ The final objective of this project is for the user to save money and avoid food
 
 ---
 
-##Technical Requirements
+## Technical Requirements
 
 * **Web Scraping:** used the search bar of www.continente.pt to look for products filtered by brand - Continente;
 * **API:** from https://spoonacular.com/food-api used 2 different APIs. One to retrieve recipe's name, recipe's ID and missing ingredients. The second, linked to the first, give you the recipe's instructions according to the recipe's ID;
 * **Libraries imported:**
-  * Pandas
+  * Pandas: building DataFrames
   * BeautifulSoup
   * Requests
-  * ReGex
-  * googletrans
+  * ReGex: cleaning and uniforming numeric data
+  * googletrans: translating inputs (targeted website built in Portugues, APIs built in English)
+* Data and DataFrames cleaning and manipulation techniques
+
+---
+
+## Resources
+
+* [Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/)
+*

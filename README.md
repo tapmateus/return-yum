@@ -26,4 +26,5 @@ The final objective of this project is for the user to save money and avoid food
 ## Resources
 
 * [Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/)
-* spoonacular Recipe and Food API (https://spoonacular.com/food-api)
+* [spoonacular Recipe and Food API](https://spoonacular.com/food-api)
+* [re - Regular Expression Operations](https://docs.python.org/3/library/re.html)

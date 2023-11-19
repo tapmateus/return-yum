@@ -1,4 +1,4 @@
-# Return-Yum
+# Return-Yum: Food Wasting Project
 
 ## Overview
 

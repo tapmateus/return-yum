@@ -1,5 +1,7 @@
 # Return-Yum: Food Wasting Project
 
+![Image](https://i.ibb.co/tqhV5tb/imagem.png)
+
 ## Overview
 
 This mini-project was made during Ironhack's Data Analytics Bootcamp with the goal of using Web Scraping and API's techniques learned during classes.
